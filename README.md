@@ -1,23 +1,15 @@
-# Hey, I'm Diya 👋
+# Ayooo, I'm Diya 🧚🏻‍♀️🪄
 
 ### AI Engineer in Progress ✦ Building things that think.
-
-```python
-while True:
-    learn()
-    build()
-    improve()
-```
 
 I'm a Computer Science student focused on Artificial Intelligence, Machine Learning, and intelligent systems.
 I enjoy building practical solutions, exploring emerging technologies, participating in hackathons, and turning ambitious ideas into working products.
 
 ---
 
-## ✦ About Me
+## ✦ Interests that fascinates me
 
 ```yaml
-Interests that fascinates me:
   - Artificial Intelligence & Machine Learning
   - Generative AI
   - Computer vision
@@ -45,30 +37,18 @@ Interests that fascinates me:
 
 ### AI / ML
 
-`Pandas` • `NumPy` • `Matplotlib` • `TensorFlow` • `PyTorch`
+`Pandas` • `NumPy` • `Matplotlib` 
 
 ### Tools
 
-`Git` • `GitHub` • `Linux` • `CLI` 
-
----
-
-## 🏆 Highlights
-
-* ☁️ Microsoft Azure Fundamentals (AZ-900)
-* 🥈 Hackathon 2nd runner's up
-* 🤖 Built AI-powered automation systems
-* 📊 Worked on machine learning prediction pipelines
-* 🚀 Passionate about creating practical AI solutions
+`Git` • `GitHub` • `Linux` 
 
 ---
 
 ## 🌌 Philosophy
 
 > Build things.
->
 > Break things.
->
 > Learn from both.
 
 ---
