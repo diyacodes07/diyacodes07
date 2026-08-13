@@ -10,7 +10,6 @@ while True:
 ```
 
 I'm a Computer Science student focused on Artificial Intelligence, Machine Learning, and intelligent systems.
-
 I enjoy building practical solutions, exploring emerging technologies, participating in hackathons, and turning ambitious ideas into working products.
 
 ---
@@ -18,18 +17,12 @@ I enjoy building practical solutions, exploring emerging technologies, participa
 ## ✦ About Me
 
 ```yaml
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
+Interests that fascinates me:
+  - Artificial Intelligence & Machine Learning
   - Generative AI
+  - Computer vision
   - Automation
   - Product Building
-
-Currently:
-  - Building AI-powered applications
-  - Exploring ML & GenAI
-  - Improving DSA & System Design
-
 ```
 
 ---
@@ -77,23 +70,6 @@ Currently:
 > Break things.
 >
 > Learn from both.
-
----
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
-
----
-
-## ☕ Beyond Code
-
-```text
-AI • Startups • Hackathons
-Coffee • Music • Sunsets • Ideas
-```
 
 ---
 
