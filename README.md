@@ -1,9 +1,9 @@
-# Ayooo, I'm Diya 🧚🏻‍♀️🪄
+# Ayooo, I'm Diya 🧚🏻‍♀️
 
-### AI Engineer in Progress ✦ Building things that think.
+### AI Engineer ✦ Building things that think.
 
 I'm a Computer Science student focused on Artificial Intelligence, Machine Learning, and intelligent systems.
-I enjoy building practical solutions, exploring emerging technologies, participating in hackathons, and turning ambitious ideas into working products.
+Somewhere between late-night ideas, terminal windows, and endless curiosity. I'm fascinated by intelligence, technology, and the process of creating something meaningful from nothing more than an idea. Every project is an opportunity to learn, improve, and build something a little better than before.
 
 ---
 
