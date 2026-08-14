@@ -1,4 +1,4 @@
-# Ayooo, I'm Diya 🧚🏻‍♀️
+# Ayooo, I'm Diya 
 
 ### AI Engineer ✦ Building things that think.
 
