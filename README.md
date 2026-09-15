@@ -1,4 +1,4 @@
-# Ayooo, I'm Diya 
+# hi, I'm Diya 
 
 ### AI Engineer ✦ Building things that think.
 
@@ -43,20 +43,10 @@ Somewhere between late-night ideas, terminal windows, and endless curiosity. I'm
 
 `Git` • `GitHub` • `Linux` 
 
----
-
-## 🌌 Philosophy
-
-> Build things.
-> Break things.
-> Learn from both.
-
----
 
 <div align="center">
 
 ### Some projects are public.
-
 ### The most interesting ones aren't.
 
 </div>
